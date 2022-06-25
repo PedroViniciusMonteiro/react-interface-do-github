@@ -1,5 +1,5 @@
 # Desafio de Projeto criando front-end componentizado com ReactJS
-Repositório criado para Desafio de Projeto Front-End com ReactJS
+Repositório criado para Desafio de Projeto Front-End com ReactJS da DIO
 
 ## Links Úteis
 [Digital Innovation One](https://www.dio.me/)
