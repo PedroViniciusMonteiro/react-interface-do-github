@@ -1,4 +1,4 @@
-# dio-front-end-com-ReactJS
+# Desafio de Projeto criando front-end componentizado com ReactJS
 Repositório criado para Desafio de Projeto Front-End com ReactJS
 
 ## Links Úteis
